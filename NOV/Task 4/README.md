@@ -1,4 +1,4 @@
-# **Task 4: Predicting Insurance Claim Amounts**
+# **Predicting Insurance Claim Amounts**
 
 ## **Objective**
 
