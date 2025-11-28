@@ -67,7 +67,4 @@ Several plots were created to understand how features affect insurance charges:
 * **Age and BMI** show a positive correlation with insurance costs.
 * Linear Regression performs reasonably well but may miss complex non-linear patterns.
 
----
-
-If you want, I can format Task 2 and Task 3 in the same style too!
 
