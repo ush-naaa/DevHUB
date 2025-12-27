@@ -14,7 +14,7 @@ each segment to support data-driven business decision-making.
 
 The dataset contains customer information collected from a shopping mall, including:
 - Customer ID
-- Gender
+- Genre
 - Age
 - Annual Income (k$)
 - Spending Score (1–100)
