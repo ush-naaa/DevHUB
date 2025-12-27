@@ -18,10 +18,6 @@ The dataset contains customer information collected from a shopping mall, includ
 - Age
 - Annual Income (k$)
 - Spending Score (1–100)
-
-This dataset is widely used for customer segmentation tasks and is well-suited for
-unsupervised learning techniques.
-
 ---
 
 ## Approach
